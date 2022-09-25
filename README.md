@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mohammed Burhanuddeen R @Metallurgist
-- 👀 I’m interested in Data
-- 🌱 I’m currently learning Full Stack Data Science
+- 👀 I’m currently interested in ML
 - 💞️ I’m looking to collaborate on DS, ML, AI
 - 📫 How to reach me rmohammedburhanuddeen@gmail.com
 
