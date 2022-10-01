@@ -15,6 +15,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" width="40" height="40">
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40">
 <img src="https://pbs.twimg.com/profile_images/1268207088683020288/d9agkn4h_400x400.jpg" width="40" height="40">
+<img src="https://uploads.sitepoint.com/wp-content/uploads/2016/04/1461122387heroku-logo.jpg" width="40" height="40">
+
 
 
 <!---
