@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Mohammed Burhanuddeen R @Metallurgist
 - 👀 I’m currently interested in ML
 - 💞️ I’m looking to collaborate on DS, ML, AI
-- 📫 How to reach me rmohammedburhanuddeen@gmail.com
+- 📫 How to reach me rmohammedburhanuddeen@gmail.com , careersburhan@gmail.com
 
 **Languages and tools :**
 <p float="left">
