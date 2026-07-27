@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Metallurgist)
 - 👋 Hi, I’m Mohammed Burhanuddeen R @Metallurgist
+- Metallurgist by Profession, Data Science enthusiast and a passion for advanced statistics and deep analytics.
 - 👀 I’m currently interested in ML
 - 💞️ I’m looking to collaborate on DS, ML, AI
 - 📫 How to reach me rmohammedburhanuddeen@gmail.com , careersburhan@gmail.com
