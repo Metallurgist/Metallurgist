@@ -8,7 +8,7 @@
 <p float="left">
   <img src="https://play-lh.googleusercontent.com/37EzETO6gZyKmCg2kBIFX1e9gkubxZrVa5fHJ6yOaa7VvEShHjKv2RdtwnZt9Sk258s" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/250px-Python-logo-notext.svg.png" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/250px-Pandas_logo.svg.png" width="40" height="40"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/250px-Pandas_logo.svg.png" width="60" height="60"> 
    <img src="https://devocean.sk.com/CKFinderJava/userfiles/images/numpy.png" width="40" height="40">
   <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3629020-3030245.png" width="40" height="40">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="40" height="40">
